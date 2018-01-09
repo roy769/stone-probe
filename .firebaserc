@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "stone-probe"
+    "default": "stone-probe",
+    "tireSwing": "stone-probe"
   }
 }
